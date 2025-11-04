@@ -19,7 +19,7 @@
 @media (max-width: 1199px){
 
   #youtubeBox .youtubeList li a .textBox .title{font-size: 22px;}
-  #youtubeBox .youtubeList li a .textBox .title span{margin-top: 10px;}
+
   #youtubeBox .youtubeList li a .text{font-size: 18px;}
   #youtubeBox .youtubeList li a .box::after{top: 20%;}
 
@@ -38,7 +38,6 @@
   #youtubeBox .youtubeList li a:last-child{margin-bottom: 0;}
   #youtubeBox .youtubeList li a .box{margin-bottom: 25px; border-radius: 10px;  box-shadow: 5px 5px 10px rgba(0,0,0,.3);}
   #youtubeBox .youtubeList li a .textBox .title{font-size: 20px;}
-  #youtubeBox .youtubeList li a .textBox .title span{margin: 0;}
   #youtubeBox .youtubeList li a .text{font-size: 16px;}
   #youtubeBox .youtubeList li a .box::after{top: 20%;}
 
