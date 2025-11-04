@@ -27,14 +27,13 @@
 
 @media (max-width: 1024px){
 
+  #youtubeBox{height: auto; padding: 100px 0;}
   #youtubeBox .youtubeList li{margin-bottom: 70px; width: 100%;}
   #youtubeBox .youtubeList li a .box::after{top: 24%;}
 
 }
 
 @media (max-width: 767px){
-
-  #youtubeBox{height: auto; padding: 100px 0;}
 
   #youtubeBox .youtubeList li a:last-child{margin-bottom: 0;}
   #youtubeBox .youtubeList li a .box{margin-bottom: 25px; border-radius: 10px;  box-shadow: 5px 5px 10px rgba(0,0,0,.3);}
